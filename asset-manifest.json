@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/photo-manager-/static/css/main.3997d532.css",
+    "main.js": "/photo-manager-/static/js/main.1f138999.js",
+    "static/js/787.fc12ddfa.chunk.js": "/photo-manager-/static/js/787.fc12ddfa.chunk.js",
+    "index.html": "/photo-manager-/index.html",
+    "main.3997d532.css.map": "/photo-manager-/static/css/main.3997d532.css.map",
+    "main.1f138999.js.map": "/photo-manager-/static/js/main.1f138999.js.map",
+    "787.fc12ddfa.chunk.js.map": "/photo-manager-/static/js/787.fc12ddfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3997d532.css",
+    "static/js/main.1f138999.js"
+  ]
+}
