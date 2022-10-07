@@ -1,0 +1,31 @@
+.gallery-container {
+  max-width: 700px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+
+.image-wrapper {
+  width: 200px;
+  height: 350px;
+}
+
+img.card-image {
+  width: 100%;
+}
+
+.picture-header {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+
+button.picture-close__btn {
+  width: 24px;
+  height: 24px;
+  border-radius: 24px;
+  cursor: pointer;
+}

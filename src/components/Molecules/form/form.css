@@ -1,0 +1,38 @@
+.form-field-wrapper {
+  width: 500px;
+  margin: 0 auto;
+  background-color: aliceblue;
+  padding: 20px;
+  border: 1px solid;
+  border-radius: 8px;
+}
+
+form {
+  position: relative;
+  z-index: 10;
+}
+input[type="file"] {
+  position: absolute;
+  clip: rect(0 0 0 0);
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  cursor: pointer;
+}
+label {
+  font-weight: 600;
+}
+label:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+label.label {
+  margin-bottom: 10px;
+}
+button.form-add__btn {
+  width: 20%;
+  height: 30px;
+}
+
+
